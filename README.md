@@ -1,7 +1,7 @@
 file-deletor
 ============
 
-Windows Utility that delete files from the command line. 
+Windows Utility that deletes files from the command line. 
 
 Usage : 
 FileDeletor.exe "Path/to/directory" olderThanXDays filesBiggerThanXMo extensionWithDot Verbose
