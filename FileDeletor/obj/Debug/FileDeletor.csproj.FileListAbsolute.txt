@@ -1,6 +1,0 @@
-D:\prog\git\WindowsUtils\FileDeletor\FileDeletor\obj\Debug\FileDeletor.csprojResolveAssemblyReference.cache
-D:\prog\git\WindowsUtils\FileDeletor\FileDeletor\bin\Debug\FileDeletor.exe.config
-D:\prog\git\WindowsUtils\FileDeletor\FileDeletor\bin\Debug\FileDeletor.exe
-D:\prog\git\WindowsUtils\FileDeletor\FileDeletor\bin\Debug\FileDeletor.pdb
-D:\prog\git\WindowsUtils\FileDeletor\FileDeletor\obj\Debug\FileDeletor.exe
-D:\prog\git\WindowsUtils\FileDeletor\FileDeletor\obj\Debug\FileDeletor.pdb

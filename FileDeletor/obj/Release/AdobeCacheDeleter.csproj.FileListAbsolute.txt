@@ -1,5 +1,0 @@
-D:\Dropbox\Prog\Utilities\DeleteAdobeCacheFiles\AdobeCacheDeleter\AdobeCacheDeleter\bin\Release\AdobeCacheDeleter.exe.config
-D:\Dropbox\Prog\Utilities\DeleteAdobeCacheFiles\AdobeCacheDeleter\AdobeCacheDeleter\bin\Release\AdobeCacheDeleter.exe
-D:\Dropbox\Prog\Utilities\DeleteAdobeCacheFiles\AdobeCacheDeleter\AdobeCacheDeleter\bin\Release\AdobeCacheDeleter.pdb
-D:\Dropbox\Prog\Utilities\DeleteAdobeCacheFiles\AdobeCacheDeleter\AdobeCacheDeleter\obj\Release\AdobeCacheDeleter.exe
-D:\Dropbox\Prog\Utilities\DeleteAdobeCacheFiles\AdobeCacheDeleter\AdobeCacheDeleter\obj\Release\AdobeCacheDeleter.pdb

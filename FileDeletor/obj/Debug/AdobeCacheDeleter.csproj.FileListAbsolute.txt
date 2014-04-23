@@ -1,6 +1,0 @@
-D:\Dropbox\Prog\Utilities\DeleteAdobeCacheFiles\AdobeCacheDeleter\AdobeCacheDeleter\bin\Debug\AdobeCacheDeleter.exe.config
-D:\Dropbox\Prog\Utilities\DeleteAdobeCacheFiles\AdobeCacheDeleter\AdobeCacheDeleter\bin\Debug\AdobeCacheDeleter.exe
-D:\Dropbox\Prog\Utilities\DeleteAdobeCacheFiles\AdobeCacheDeleter\AdobeCacheDeleter\bin\Debug\AdobeCacheDeleter.pdb
-D:\Dropbox\Prog\Utilities\DeleteAdobeCacheFiles\AdobeCacheDeleter\AdobeCacheDeleter\obj\Debug\AdobeCacheDeleter.csprojResolveAssemblyReference.cache
-D:\Dropbox\Prog\Utilities\DeleteAdobeCacheFiles\AdobeCacheDeleter\AdobeCacheDeleter\obj\Debug\AdobeCacheDeleter.exe
-D:\Dropbox\Prog\Utilities\DeleteAdobeCacheFiles\AdobeCacheDeleter\AdobeCacheDeleter\obj\Debug\AdobeCacheDeleter.pdb
