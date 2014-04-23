@@ -16,7 +16,11 @@ namespace FileDeletor
 			int ifBiggerThanInMB = Convert.ToInt32(args[2]);
 			string extension = args[3];
 			bool verbose = args[4] == "true";
-
+			if (!Directory.Exists(folder))
+			{
+				Console.WriteLine("Directory does not exist.");
+				return;
+			}
 			var files = Directory.EnumerateFiles(folder);
 			long spaceSaved = (long) 0.0;
 
